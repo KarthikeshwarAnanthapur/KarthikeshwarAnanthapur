@@ -4,7 +4,7 @@
 
 # Hey, I'm Karthikeshwar Ananthapur!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Developer;Machine%20Learning%2C%20DSA%2C%20Full%20Stac...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,6 @@
 
 B.Tech student | Exploring Machine Learning & Full-Stack Development
 
-- 🏢 Working at **** in ****
 - 🌱 Currently learning **Machine Learning, DSA, Full Stack Development**
 - 💬 Ask me about **Feel free to ask me about web development, Python, ML basic concepts**
 - ⚡ I once built a fully functional website in a weekend just for the thrill of it!
