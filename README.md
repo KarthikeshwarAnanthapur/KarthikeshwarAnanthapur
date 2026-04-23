@@ -1,92 +1,37 @@
-## Hi there! 👋
+<div align="center">
 
-# Hi there! 👋
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-I'm **Karthikeshwar** — a B.Tech student and AI & ML enthusiast. 🚀
+# Hey, I'm Karthikeshwar Ananthapur!
 
-Python • C • Java • Web Dev
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Developer;AIML%20Enthusiast)](https://git.io/typing-svg)
 
-Tagline: Building practical AI-powered projects and polished web experiences while learning every day. 🌱
+</div>
 
-## About Me
+## 🚀 About Me
 
-- 👨‍🎓 Current: B.Tech student passionate about artificial intelligence, machine learning, and full‑stack web development.
-- 💡 Interests: Deep learning, computer vision, model prototyping, and front-end design.
-- 🛠️ Languages & Tools: Python, C, Java, JavaScript, HTML/CSS — used across ML & web projects.
-- 🌐 Website: https://karthikeshwar.vercel.app
-- 🔗 LinkedIn: https://www.linkedin.com/in/karthikeshwar0617
+B.Tech student | Exploring Machine Learning & Full-Stack Development
 
-I enjoy turning data into insights and ideas into working prototypes. Open to collaborations, learning opportunities, and mentorship.
+- 🌱 Currently learning **Machine Learning, DSA, Full Stack Development**
+- 💬 Ask me about **Feel free to ask me about web development, Python, ML basic concepts**
+- ⚡ I once built a fully functional website in a weekend just for the thrill of it!
 
-## Skills & Technologies
+## 🛠️ Tech Stack
 
-py,c,java,html,css,nodejs,react,nextjs,vercel,ai,pytorch,sklearn,tensorflow,git,github,vscode,js
+![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 
-## Top Projects
+## 📊 GitHub Stats
 
-## Top Projects
+<div align="center">
 
-1. [student-performance-predictor](https://github.com/KarthikeshwarAnanthapur/student-performance-predictor)
-   - Description: Web app that predicts student performance (AI/ML + Frontend). 🔍
-   - Stars: 0 | Language: CSS | Forks: 0 | Issues: 0
-   - Live: https://student-ai-predictor.vercel.app
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeshwarananthapur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-2. [Deepfake-Detection-Project (fork)](https://github.com/KarthikeshwarAnanthapur/Deepfake-Detection-Project)
-   - Description: Deepfake detection using CNN and Vision Transformer (forked). 🧠📷
-   - Stars: 1 | Language: CSS | Forks: 0 | Issues: 0
-   - Notes: Focus on computer vision / model experiments.
+</div>
 
-3. [Portfolio](https://github.com/KarthikeshwarAnanthapur/Portfolio)
-   - Description: Personal portfolio site showcasing projects and resume. 💼
-   - Stars: 1 | Language: CSS | Forks: 0 | Issues: 0
-   - Live: https://karthikeshwar.vercel.app
+## 🔗 Connect with me
 
-4. [Student-expenses-tracker](https://github.com/KarthikeshwarAnanthapur/Student-expenses-tracker)
-   - Description: A web app designed to help students build better financial habits. 💰
-   - Stars: 0 | Language: JavaScript | Forks: 0 | Issues: 0
-   - Live: https://student-expenses-tracker.vercel.app/loading.html
+<div align="center">
 
-(Other repos include a profile repo and additional experiments. See my GitHub for full details.)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthikeshwar.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeshwarananthapur@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/karthikeshwar0617) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikeshwarananthapur)
 
-## GitHub Stats
-
-## GitHub Stats
-
-- Public repositories: **5**
-- Followers: **2**
-- Following: **1**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikeshwarAnanthapur&show_icons=true&bg_color=ffffff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeshwarAnanthapur&layout=compact&bg_color=ffffff00)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=KarthikeshwarAnanthapur&color=0e75b6)](https://github.com/KarthikeshwarAnanthapur)
-
-## Recent Activity
-
-## Recent Activity
-
-Here are some of my latest GitHub events:
-
-- 🔁 2026-04-23: Pushed updates to the repository [KarthikeshwarAnanthapur/KarthikeshwarAnanthapur](https://github.com/KarthikeshwarAnanthapur/KarthikeshwarAnanthapur).
-- 🔁 2026-04-23: Multiple commits pushed to the `main` branch of my profile repo.
-- 🆕 2026-04-23: Created the `main` branch for my profile repository.
-- 🚀 2026-04-21: Published release v1 for [student-performance-predictor](https://github.com/KarthikeshwarAnanthapur/student-performance-predictor).
-- 🔁 2026-04-21: Pushed updates to [student-performance-predictor](https://github.com/KarthikeshwarAnanthapur/student-performance-predictor).
-- 🔁 2026-04-01: Contributed (push) to [PyarasaniUday/Deepfake-Detection-Project](https://github.com/PyarasaniUday/Deepfake-Detection-Project) (contribution to upstream project).
-
-(For a full activity stream, visit my GitHub profile activity feed.)
-
-## Latest Blog Posts
-
-## Latest Blog Posts
-
-I host a personal site where I share projects and notes:
-
-- Website / Blog: https://karthikeshwar.vercel.app 🌐
-
-No recent blog posts were found in my GitHub profile metadata. Check my website for articles, project writeups, and updates.
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/karthikeshwar0617"}
+</div>
