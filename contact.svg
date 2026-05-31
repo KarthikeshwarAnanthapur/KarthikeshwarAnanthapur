@@ -1,18 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340">
 
-  <!-- Background -->
-  <rect width="900" height="280" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="340" rx="12" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- Header -->
   <rect width="900" height="42" rx="12" fill="#161b22"/>
   <rect y="30" width="900" height="12" fill="#161b22"/>
 
-  <!-- Mac Buttons -->
   <circle cx="24" cy="21" r="7" fill="#ff5f56"/>
   <circle cx="48" cy="21" r="7" fill="#ffbd2e"/>
   <circle cx="72" cy="21" r="7" fill="#27ca40"/>
 
-  <!-- Title -->
   <text
     x="450"
     y="26"
@@ -23,19 +19,15 @@
     karthikeshwar@github ~/contact
   </text>
 
-  <!-- Content -->
   <g font-family="monospace" font-size="18">
 
-    <!-- Command -->
     <text x="25" y="78" fill="#3fb950">&gt;</text>
     <text x="55" y="78" fill="#3fb950">npm</text>
     <text x="105" y="78" fill="#ffffff">run contact</text>
 
-    <!-- Output -->
     <text x="25" y="118" fill="#58a6ff">&gt; contact@1.0.0</text>
     <text x="25" y="148" fill="#c9d1d9">&gt; node scripts/contact.js</text>
 
-    <!-- Left Column -->
     <text x="60" y="205" fill="#79c0ff">github</text>
     <text x="180" y="205" fill="#c9d1d9">:</text>
     <text x="210" y="205" fill="#a5d6ff">KarthikeshwarAnanthapur</text>
@@ -44,14 +36,13 @@
     <text x="180" y="240" fill="#c9d1d9">:</text>
     <text x="210" y="240" fill="#7ee787">karthikeshwar0617</text>
 
-    <!-- Right Column -->
-    <text x="470" y="205" fill="#79c0ff">portfolio</text>
-    <text x="590" y="205" fill="#c9d1d9">:</text>
-    <text x="620" y="205" fill="#d2a8ff">karthikeshwar.is-a.dev</text>
+    <text x="60" y="275" fill="#79c0ff">portfolio</text>
+    <text x="180" y="275" fill="#c9d1d9">:</text>
+    <text x="210" y="275" fill="#d2a8ff">karthikeshwar.is-a.dev</text>
 
-    <text x="470" y="240" fill="#79c0ff">email</text>
-    <text x="590" y="240" fill="#c9d1d9">:</text>
-    <text x="620" y="240" fill="#ff7b72">karthikeshwarananthapur@gmail.com</text>
+    <text x="60" y="310" fill="#79c0ff">email</text>
+    <text x="180" y="310" fill="#c9d1d9">:</text>
+    <text x="210" y="310" fill="#ff7b72">karthikeshwarananthapur@gmail.com</text>
 
   </g>
 
