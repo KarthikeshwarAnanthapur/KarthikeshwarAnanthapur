@@ -26,7 +26,7 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarthikeshwarAnanthapur&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=KarthikeshwarAnanthapur&theme=github-dark-blue&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=KarthikeshwarAnanthapur&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
