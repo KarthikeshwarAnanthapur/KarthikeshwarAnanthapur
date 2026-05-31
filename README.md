@@ -1,37 +1,71 @@
+# 👨‍💻 Karthikeshwar Ananthapur
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+<img src="./profile.svg" width="100%">
 
-# Hey, I'm Karthikeshwar Ananthapur!
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Developer;AIML%20Enthusiast)](https://git.io/typing-svg)
+<img src="./stack.svg" width="100%">
+
+<br>
+
+<img src="./projects.svg" width="100%">
+
+<br>
+
+<img src="./contact.svg" width="100%">
 
 </div>
 
-## 🚀 About Me
+<br>
 
-B.Tech student | Exploring Machine Learning & Full-Stack Development
-
-- 🌱 Currently learning **Machine Learning, DSA, Full Stack Development**
-- 💬 Ask me about **Feel free to ask me about web development, Python, ML basic concepts**
-- ⚡ I once built a fully functional website in a weekend just for the thrill of it!
-
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejs&logoColor=white)
-
-## 📊 GitHub Stats
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeshwarananthapur&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarthikeshwarAnanthapur&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=KarthikeshwarAnanthapur&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-## 🔗 Connect with me
+<br>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthikeshwar.is-a.dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeshwarananthapur@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/karthikeshwar0617) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikeshwarananthapur)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeshwarAnanthapur&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/KarthikeshwarAnanthapur">
+    <img src="https://img.shields.io/badge/GitHub-KarthikeshwarAnanthapur-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/karthikeshwar0617">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthikeshwar0617-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://karthikeshwar.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:karthikeshwarananthapur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Building the future, one project at a time.
+
+*Build. Break. Learn. Secure.*
 
 </div>
