@@ -2,15 +2,15 @@
 
 <img src="./profile.svg" width="90%">
 
-<br></br>
+<br>
 
 <img src="./stack.svg" width="90%">
 
-<br></br>
+<br>
 
 <img src="./projects.svg" width="90%">
 
-<br></br>
+<br>
 
 <img src="./contact.svg" width="90%">
 
