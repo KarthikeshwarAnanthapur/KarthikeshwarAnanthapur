@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
-  <rect width="900" height="380" rx="12" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320">
+
+  <!-- Background -->
+  <rect width="900" height="320" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <!-- Header -->
   <rect width="900" height="42" rx="12" fill="#161b22"/>
@@ -11,44 +13,48 @@
   <circle cx="72" cy="21" r="7" fill="#27ca40"/>
 
   <!-- Title -->
-  <text x="450"
-        y="26"
-        text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="12"
-        fill="#8b949e">
+  <text
+    x="450"
+    y="26"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="12"
+    fill="#8b949e">
     karthikeshwar@github ~/projects
   </text>
 
-  <g font-family="JetBrains Mono, Consolas, monospace" font-size="18">
+  <!-- Content -->
+  <g font-family="monospace" font-size="18">
 
     <!-- Command -->
-    <text x="25" y="80" fill="#3fb950">❯</text>
-    <text x="55" y="80" fill="#3fb950">npm</text>
-    <text x="110" y="80" fill="#ffffff">run projects</text>
+    <text x="25" y="78" fill="#3fb950">&gt;</text>
+    <text x="55" y="78" fill="#3fb950">npm</text>
+    <text x="105" y="78" fill="#ffffff">run projects</text>
 
     <!-- Output -->
-    <text x="25" y="125" fill="#58a6ff">&gt; projects@1.0.0</text>
-    <text x="25" y="160" fill="#c9d1d9">&gt; node scripts/projects.js</text>
+    <text x="25" y="118" fill="#58a6ff">&gt; projects@1.0.0</text>
+    <text x="25" y="148" fill="#c9d1d9">&gt; node scripts/projects.js</text>
 
-    <text x="25" y="205" fill="#7ee787">Loaded 4 projects</text>
+    <text x="25" y="185" fill="#7ee787">Loaded 4 projects</text>
 
     <!-- Projects -->
-    <text x="50" y="245" fill="#8b949e">├──</text>
-    <text x="100" y="245" fill="#79c0ff">KeyXPulse</text>
-    <text x="500" y="245" fill="#58a6ff">[Live]</text>
 
-    <text x="50" y="280" fill="#8b949e">├──</text>
-    <text x="100" y="280" fill="#79c0ff">SafeBait</text>
-    <text x="500" y="280" fill="#3fb950">[Completed]</text>
+    <text x="60" y="225" fill="#79c0ff">KeyXPulse</text>
+    <text x="260" y="225" fill="#c9d1d9">:</text>
+    <text x="290" y="225" fill="#58a6ff">Live</text>
 
-    <text x="50" y="315" fill="#8b949e">├──</text>
-    <text x="100" y="315" fill="#79c0ff">CodeShield</text>
-    <text x="500" y="315" fill="#3fb950">[Completed]</text>
+    <text x="60" y="255" fill="#79c0ff">SafeBait</text>
+    <text x="260" y="255" fill="#c9d1d9">:</text>
+    <text x="290" y="255" fill="#3fb950">Completed</text>
 
-    <text x="50" y="350" fill="#8b949e">└──</text>
-    <text x="100" y="350" fill="#79c0ff">Portfolio Website</text>
-    <text x="500" y="350" fill="#58a6ff">[Live]</text>
+    <text x="500" y="225" fill="#79c0ff">CodeShield</text>
+    <text x="670" y="225" fill="#c9d1d9">:</text>
+    <text x="700" y="225" fill="#3fb950">Completed</text>
+
+    <text x="500" y="255" fill="#79c0ff">Portfolio</text>
+    <text x="670" y="255" fill="#c9d1d9">:</text>
+    <text x="700" y="255" fill="#58a6ff">Live</text>
 
   </g>
+
 </svg>
