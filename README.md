@@ -4,15 +4,15 @@
 
 <br>
 
-<img src="./stack.svg" width="70%">
+<img src="./stack.svg" width="90%">
 
 <br>
 
-<img src="./projects.svg" width="70%">
+<img src="./projects.svg" width="90%">
 
 <br>
 
-<img src="./contact.svg" width="70%">
+<img src="./contact.svg" width="90%">
 
 </div>
 
