@@ -1,62 +1,59 @@
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+
   <rect width="900" height="360" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <!-- Header -->
-  <rect width="900" height="42" rx="12" fill="#161b22"/>
-  <rect y="30" width="900" height="12" fill="#161b22"/>
+  <rect x="0" y="0" width="900" height="42" rx="12" fill="#161b22"/>
+  <rect x="0" y="30" width="900" height="12" fill="#161b22"/>
 
-  <!-- Mac Buttons -->
+  <!-- Window Buttons -->
   <circle cx="24" cy="21" r="7" fill="#ff5f56"/>
   <circle cx="48" cy="21" r="7" fill="#ffbd2e"/>
   <circle cx="72" cy="21" r="7" fill="#27ca40"/>
 
   <!-- Title -->
-  <text x="450"
-        y="26"
-        text-anchor="middle"
-        font-family="JetBrains Mono, Consolas, monospace"
-        font-size="12"
-        fill="#8b949e">
+  <text
+    x="450"
+    y="26"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="12"
+    fill="#8b949e">
     karthikeshwar@github ~/portfolio
   </text>
 
-  <g font-family="JetBrains Mono, Consolas, monospace" font-size="16">
+  <!-- Content -->
+  <g font-family="monospace" font-size="16">
 
-    <!-- Command -->
-    <text x="25" y="78" fill="#3fb950">❯</text>
-    <text x="55" y="78" fill="#3fb950">npm</text>
-    <text x="105" y="78" fill="#ffffff">run about-me</text>
+    <text x="25" y="80" fill="#3fb950">&gt;</text>
+    <text x="55" y="80" fill="#3fb950">npm</text>
+    <text x="105" y="80" fill="#ffffff">run about-me</text>
 
-    <!-- Output -->
-    <text x="25" y="115" fill="#58a6ff">&gt; about-me@1.0.0</text>
-    <text x="25" y="145" fill="#c9d1d9">&gt; node scripts/about-me.js</text>
+    <text x="25" y="120" fill="#58a6ff">&gt; about-me@1.0.0</text>
+    <text x="25" y="150" fill="#c9d1d9">&gt; node scripts/about-me.js</text>
 
-    <!-- JSON -->
-    <text x="25" y="190" fill="#f2cc60">{</text>
+    <text x="25" y="195" fill="#f2cc60">{</text>
 
-    <text x="60" y="225" fill="#79c0ff">"name"</text>
-    <text x="200" y="225" fill="#c9d1d9">:</text>
-    <text x="230" y="225" fill="#a5d6ff">"Karthikeshwar Ananthapur"</text>
+    <text x="60" y="230" fill="#79c0ff">"name"</text>
+    <text x="190" y="230" fill="#c9d1d9">:</text>
+    <text x="220" y="230" fill="#a5d6ff">"Karthikeshwar Ananthapur"</text>
 
-    <text x="60" y="255" fill="#79c0ff">"role"</text>
-    <text x="200" y="255" fill="#c9d1d9">:</text>
-    <text x="230" y="255" fill="#7ee787">"B.Tech Student"</text>
+    <text x="60" y="260" fill="#79c0ff">"role"</text>
+    <text x="190" y="260" fill="#c9d1d9">:</text>
+    <text x="220" y="260" fill="#7ee787">"B.Tech Student"</text>
 
-    <text x="60" y="285" fill="#79c0ff">"focus"</text>
-    <text x="200" y="285" fill="#c9d1d9">:</text>
-    <text x="230" y="285" fill="#ffa657">
-      ["Cybersecurity", "AI", "Full Stack"]
-    </text>
+    <text x="60" y="290" fill="#79c0ff">"focus"</text>
+    <text x="190" y="290" fill="#c9d1d9">:</text>
+    <text x="220" y="290" fill="#ffa657">["Cybersecurity", "AI", "Full Stack"]</text>
 
-    <text x="60" y="315" fill="#79c0ff">"motto"</text>
-    <text x="200" y="315" fill="#c9d1d9">:</text>
-    <text x="230" y="315" fill="#ff7b72">
-      "Build. Break. Learn. Secure."
-    </text>
+    <text x="60" y="320" fill="#79c0ff">"motto"</text>
+    <text x="190" y="320" fill="#c9d1d9">:</text>
+    <text x="220" y="320" fill="#ff7b72">"Build. Break. Learn. Secure."</text>
 
-    <text x="25" y="340" fill="#f2cc60">}</text>
+    <text x="25" y="345" fill="#f2cc60">}</text>
 
   </g>
+
 </svg>
 ```
