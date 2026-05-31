@@ -2,19 +2,19 @@
 
 <div align="center">
 
-<img src="./profile.svg" width="80%">
+<img src="./profile.svg" width="60%">
 
 <br>
 
-<img src="./stack.svg" width="80%">
+<img src="./stack.svg" width="60%">
 
 <br>
 
-<img src="./projects.svg" width="80%">
+<img src="./projects.svg" width="60%">
 
 <br>
 
-<img src="./contact.svg" width="80%">
+<img src="./contact.svg" width="60%">
 
 </div>
 
