@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.svg" width="70%">
+<img src="./profile.svg" width="90%">
 
 <br>
 
