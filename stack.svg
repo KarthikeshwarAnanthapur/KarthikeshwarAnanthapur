@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400">
 
   <!-- Background -->
-  <rect width="900" height="280" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="400" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <!-- Header -->
   <rect width="900" height="42" rx="12" fill="#161b22"/>
@@ -23,7 +23,7 @@
     karthikeshwar@github ~/stack
   </text>
 
-  <!-- Content -->
+  <!-- Terminal Content -->
   <g font-family="monospace" font-size="18">
 
     <!-- Command -->
@@ -35,31 +35,31 @@
     <text x="25" y="118" fill="#58a6ff">&gt; tech-stack@1.0.0</text>
     <text x="25" y="148" fill="#c9d1d9">&gt; node scripts/stack.js</text>
 
-    <!-- Left Column -->
-    <text x="60" y="195" fill="#79c0ff">frontend</text>
-    <text x="180" y="195" fill="#c9d1d9">:</text>
-    <text x="210" y="195" fill="#a5d6ff">React • Tailwind • JavaScript</text>
+    <!-- Stack -->
 
-    <text x="60" y="225" fill="#79c0ff">backend</text>
-    <text x="180" y="225" fill="#c9d1d9">:</text>
-    <text x="210" y="225" fill="#7ee787">Node.js • Express</text>
+    <text x="60" y="205" fill="#79c0ff">frontend</text>
+    <text x="180" y="205" fill="#c9d1d9">:</text>
+    <text x="210" y="205" fill="#a5d6ff">React • Tailwind • JavaScript</text>
 
-    <text x="60" y="255" fill="#79c0ff">database</text>
-    <text x="180" y="255" fill="#c9d1d9">:</text>
-    <text x="210" y="255" fill="#58a6ff">MongoDB • MySQL</text>
+    <text x="60" y="240" fill="#79c0ff">backend</text>
+    <text x="180" y="240" fill="#c9d1d9">:</text>
+    <text x="210" y="240" fill="#7ee787">Node.js • Express</text>
 
-    <!-- Right Column -->
-    <text x="470" y="195" fill="#79c0ff">security</text>
-    <text x="590" y="195" fill="#c9d1d9">:</text>
-    <text x="620" y="195" fill="#ffa657">SOC • SIEM • Networking</text>
+    <text x="60" y="275" fill="#79c0ff">languages</text>
+    <text x="180" y="275" fill="#c9d1d9">:</text>
+    <text x="210" y="275" fill="#e3b341">Java • Python • JavaScript</text>
 
-    <text x="470" y="225" fill="#79c0ff">cloud</text>
-    <text x="590" y="225" fill="#c9d1d9">:</text>
-    <text x="620" y="225" fill="#d2a8ff">Azure • GitHub</text>
+    <text x="60" y="310" fill="#79c0ff">database</text>
+    <text x="180" y="310" fill="#c9d1d9">:</text>
+    <text x="210" y="310" fill="#58a6ff">MongoDB • MySQL</text>
 
-    <text x="470" y="255" fill="#79c0ff">ai</text>
-    <text x="590" y="255" fill="#c9d1d9">:</text>
-    <text x="620" y="255" fill="#ff7b72">Gemini • OpenAI</text>
+    <text x="60" y="345" fill="#79c0ff">security</text>
+    <text x="180" y="345" fill="#c9d1d9">:</text>
+    <text x="210" y="345" fill="#ffa657">SOC • SIEM • Networking</text>
+
+    <text x="60" y="380" fill="#79c0ff">ai</text>
+    <text x="180" y="380" fill="#c9d1d9">:</text>
+    <text x="210" y="380" fill="#ff7b72">Gemini • OpenAI</text>
 
   </g>
 
