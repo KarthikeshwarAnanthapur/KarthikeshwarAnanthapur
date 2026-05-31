@@ -24,19 +24,15 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarthikeshwarAnanthapur&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
 
 <img height="170em" src="https://streak-stats.demolab.com?user=KarthikeshwarAnanthapur&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeshwarAnanthapur&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeshwarananthapur&theme=github-dark&hide_border=true&bg_color=0D1117"/>
+</p>
 
 <br>
 
