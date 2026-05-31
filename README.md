@@ -40,19 +40,19 @@
 
 <p align="center">
   <a href="https://github.com/KarthikeshwarAnanthapur">
-    <img src="https://img.shields.io/badge/GitHub-KarthikeshwarAnanthapur-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/karthikeshwar0617">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthikeshwar0617-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://karthikeshwar.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge"/>
   </a>
 
   <a href="mailto:karthikeshwarananthapur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
