@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
-  <rect width="900" height="460" rx="12" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+
+  <!-- Background -->
+  <rect width="900" height="280" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <!-- Header -->
   <rect width="900" height="42" rx="12" fill="#161b22"/>
@@ -10,52 +12,55 @@
   <circle cx="48" cy="21" r="7" fill="#ffbd2e"/>
   <circle cx="72" cy="21" r="7" fill="#27ca40"/>
 
-  <text x="450"
-        y="26"
-        text-anchor="middle"
-        font-family="JetBrains Mono, monospace"
-        font-size="12"
-        fill="#8b949e">
-    dark@github ~ — stack
+  <!-- Title -->
+  <text
+    x="450"
+    y="26"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="12"
+    fill="#8b949e">
+    karthikeshwar@github ~/stack
   </text>
 
-  <g font-family="JetBrains Mono, monospace" font-size="18">
+  <!-- Content -->
+  <g font-family="monospace" font-size="18">
 
     <!-- Command -->
-    <text x="25" y="80" fill="#3fb950">❯</text>
-    <text x="55" y="80" fill="#3fb950">npm</text>
-    <text x="110" y="80" fill="#ffffff">run tech-stack</text>
+    <text x="25" y="78" fill="#3fb950">&gt;</text>
+    <text x="55" y="78" fill="#3fb950">npm</text>
+    <text x="105" y="78" fill="#ffffff">run tech-stack</text>
 
     <!-- Output -->
-    <text x="25" y="125" fill="#58a6ff">&gt; tech-stack@1.0.0</text>
-    <text x="25" y="160" fill="#c9d1d9">&gt; node scripts/stack.js</text>
+    <text x="25" y="118" fill="#58a6ff">&gt; tech-stack@1.0.0</text>
+    <text x="25" y="148" fill="#c9d1d9">&gt; node scripts/stack.js</text>
 
-    <!-- Tree -->
-    <text x="25" y="210" fill="#7ee787">📁 stack/</text>
+    <!-- Left Column -->
+    <text x="60" y="195" fill="#79c0ff">frontend</text>
+    <text x="180" y="195" fill="#c9d1d9">:</text>
+    <text x="210" y="195" fill="#a5d6ff">React • Tailwind • JavaScript</text>
 
-    <text x="50" y="250" fill="#8b949e">├──</text>
-    <text x="100" y="250" fill="#79c0ff">frontend/</text>
-    <text x="280" y="250" fill="#c9d1d9">React • Tailwind • JavaScript</text>
+    <text x="60" y="225" fill="#79c0ff">backend</text>
+    <text x="180" y="225" fill="#c9d1d9">:</text>
+    <text x="210" y="225" fill="#7ee787">Node.js • Express</text>
 
-    <text x="50" y="285" fill="#8b949e">├──</text>
-    <text x="100" y="285" fill="#79c0ff">backend/</text>
-    <text x="280" y="285" fill="#c9d1d9">Node.js • Express</text>
+    <text x="60" y="255" fill="#79c0ff">database</text>
+    <text x="180" y="255" fill="#c9d1d9">:</text>
+    <text x="210" y="255" fill="#58a6ff">MongoDB • MySQL</text>
 
-    <text x="50" y="320" fill="#8b949e">├──</text>
-    <text x="100" y="320" fill="#79c0ff">database/</text>
-    <text x="280" y="320" fill="#c9d1d9">MongoDB • MySQL</text>
+    <!-- Right Column -->
+    <text x="470" y="195" fill="#79c0ff">security</text>
+    <text x="590" y="195" fill="#c9d1d9">:</text>
+    <text x="620" y="195" fill="#ffa657">SOC • SIEM • Networking</text>
 
-    <text x="50" y="355" fill="#8b949e">├──</text>
-    <text x="100" y="355" fill="#79c0ff">cybersecurity/</text>
-    <text x="280" y="355" fill="#c9d1d9">SOC • SIEM • Networking</text>
+    <text x="470" y="225" fill="#79c0ff">cloud</text>
+    <text x="590" y="225" fill="#c9d1d9">:</text>
+    <text x="620" y="225" fill="#d2a8ff">Azure • GitHub</text>
 
-    <text x="50" y="390" fill="#8b949e">├──</text>
-    <text x="100" y="390" fill="#79c0ff">cloud/</text>
-    <text x="280" y="390" fill="#c9d1d9">Azure • GitHub</text>
-
-    <text x="50" y="425" fill="#8b949e">└──</text>
-    <text x="100" y="425" fill="#79c0ff">ai/</text>
-    <text x="280" y="425" fill="#c9d1d9">Gemini • OpenAI</text>
+    <text x="470" y="255" fill="#79c0ff">ai</text>
+    <text x="590" y="255" fill="#c9d1d9">:</text>
+    <text x="620" y="255" fill="#ff7b72">Gemini • OpenAI</text>
 
   </g>
+
 </svg>
