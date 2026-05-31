@@ -1,20 +1,18 @@
-# 👨‍💻 Karthikeshwar Ananthapur
-
 <div align="center">
 
-<img src="./profile.svg" width="60%">
+<img src="./profile.svg" width="70%">
 
 <br>
 
-<img src="./stack.svg" width="60%">
+<img src="./stack.svg" width="70%">
 
 <br>
 
-<img src="./projects.svg" width="60%">
+<img src="./projects.svg" width="70%">
 
 <br>
 
-<img src="./contact.svg" width="60%">
+<img src="./contact.svg" width="70%">
 
 </div>
 
