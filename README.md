@@ -2,7 +2,7 @@
 
 <img src="./profile.svg" width="90%">
 
-<br>br/>
+<br></br/>
 
 <img src="./stack.svg" width="90%">
 
